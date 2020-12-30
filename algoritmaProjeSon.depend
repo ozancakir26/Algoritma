@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609250566 source:c:\users\asusss\desktop\c\algoritmaprojeson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+
+1609262409 source:c:\users\asusss\desktop\algoritmaprojeson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+
